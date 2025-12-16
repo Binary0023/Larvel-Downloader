@@ -26,9 +26,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/yourusername/larvel-downloader?style=flat-square&color=blue" alt="Release"/>
-  <img src="https://img.shields.io/github/downloads/yourusername/larvel-downloader/total?style=flat-square&color=green" alt="Downloads"/>
-  <img src="https://img.shields.io/github/license/yourusername/larvel-downloader?style=flat-square" alt="License"/>
+  <img src="https://img.shields.io/github/v/release/Binary0023/Larvel-Downloader?style=flat-square&color=blue" alt="Release"/>
+  <img src="https://img.shields.io/github/downloads/Binary0023/Larvel-Downloader/total?style=flat-square&color=green" alt="Downloads"/>
+  <img src="https://img.shields.io/github/license/Binary0023/Larvel-Downloader?style=flat-square" alt="License"/>
   <img src="https://img.shields.io/badge/API-24%2B-brightgreen?style=flat-square" alt="API"/>
 </p>
 
@@ -113,13 +113,13 @@
 ## 📥 Installation
 
 ### Download APK
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/yourusername/larvel-downloader/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/Binary0023/Larvel-Downloader/releases/latest)
 
 ### Build from Source
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/larvel-downloader.git
+git clone https://github.com/Binary0023/Larvel-Downloader.git
 
 # Navigate to project directory
 cd larvel-downloader
@@ -230,7 +230,7 @@ SOFTWARE.
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/larvel-downloader/issues">Report Bug</a>
+  <a href="https://github.com/Binary0023/Larvel-Downloader/issues">Report Bug</a>
   •
-  <a href="https://github.com/yourusername/larvel-downloader/issues">Request Feature</a>
+  <a href="https://github.com/Binary0023/Larvel-Downloader/issues">Request Feature</a>
 </p>
