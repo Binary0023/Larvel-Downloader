@@ -104,10 +104,10 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="200" alt="Home Screen"/>
-  <img src="screenshots/extract.png" width="200" alt="Extract Screen"/>
-  <img src="screenshots/downloads.png" width="200" alt="Downloads Screen"/>
-  <img src="screenshots/settings.png" width="200" alt="Settings Screen"/>
+  <img src="screenshots/app.jpg" width="200" alt="Home Screen"/>
+  <img src="screenshots/app2.jpg" width="200" alt="Extract Screen"/>
+  <img src="screenshots/app3.jpg" width="200" alt="Downloads Screen"/>
+  <img src="screenshots/app4.jpg" width="200" alt="Settings Screen"/>
 </p>
 
 ## 📥 Installation
