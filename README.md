@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <br>
-  <img src="app/src/main/res/drawable/ic_launcher_foreground.xml" alt="Larvel Downloader" width="120">
+  <img src="screenshots/app_icon.png" alt="Larvel Downloader" width="120">
   <br>
   Larvel Downloader
   <br>
